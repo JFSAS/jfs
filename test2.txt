@@ -1,0 +1,5 @@
+# jfs
+git pull git clone 区别
+git clone 是本地没有完全下载一个res
+git pull 是在你本地库的基础上更新
+pull=下拉再merge
